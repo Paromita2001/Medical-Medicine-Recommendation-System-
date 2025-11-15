@@ -4,7 +4,7 @@ A machine-learning powered healthcare assistant that predicts diseases based on 
 This system uses multiple datasets like symptom severity, description, medications, precautions, diet suggestions, and workout plans.
 Models are trained using classical ML algorithms and the entire pipeline is structured for real-world medical assistance.
 
-**Key Features**
+## Key Features
 
 ✔ Predict disease based on symptoms
 ✔ Recommend medicines
@@ -103,10 +103,13 @@ Personal Health Monitoring
 
 ## Limitations
 
-⚠ Not a replacement for a doctor
-⚠ Model accuracy depends on limited dataset
-⚠ Generalized recommendations
-⚠ No real medical validation yet
+-Not a replacement for a doctor
+
+-Model accuracy depends on limited dataset
+
+-Generalized recommendations
+
+-No real medical validation yet
 
 ## Future Improvements
 
